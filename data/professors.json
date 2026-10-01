@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "shahram-golzari-hormozi",
+    "name": "شهرام گلزاری هرمزی",
+    "image": "/images/shahram-golzari.png",
+    "rank": "استادیار",
+    "faculty": "دانشکده فنی و مهندسی",
+    "department": "مهندسی برق و کامپیوتر",
+    "field": "مهندسی کامپیوتر",
+    "office": "دانشکده فنی ۲، طبقه ۲",
+    "email": "golzari@hormozgan.ac.ir",
+    "education": [{"degree":"کارشناسی","university":"دانشگاه صنعتی اصفهان","country":"ایران"}],
+    "teaching": [{"degree":"کارشناسی","subjects":["ساختمان داده"]}],
+    "research": {"journals":[],"conferences":[],"books":[],"projects":[],"patents":[]},
+    "theses":[], "interests":[], "downloads":[]
+  },
+  {
+    "slug": "seyed-hassan-daryanavard",
+    "name": "سید حسن دریانورد",
+    "image": "/images/seyed-hassan-daryanavard.png",
+    "rank": "استادیار",
+    "faculty": "دانشکده فنی و مهندسی",
+    "education":[], "teaching":[],
+    "research": {"journals":[],"conferences":[],"books":[],"projects":[],"patents":[]},
+    "theses":[], "interests":[], "downloads":[]
+  }
+]

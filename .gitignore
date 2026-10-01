@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+backend/.env
+backend/data/
+tmp/
+output/
